@@ -22,6 +22,8 @@ In this **DevOps project**, I demonstrate how to **deploy a ZOMATO Clone App** u
 1. **Stage 1** - Deployment of App to Docker Container
 2. **Stage 2** - Deployment of App to K8S Cluster with Monitoring
 
+---
+
 ### Project Architecture&Screenshots
 
 ![Screenshot 2025-04-06 235109](https://github.com/user-attachments/assets/d7d434cf-021b-45be-85fa-7a2ac7c6b561)
